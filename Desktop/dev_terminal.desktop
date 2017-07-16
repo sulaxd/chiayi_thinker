@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Start dev terminal
+Commment=Start a terminal with the environment for the voice-recognizer.
+Exec=/home/pi/bin/voice-recognizer-shell.sh
+Terminal=true
+Icon=utilities-terminal

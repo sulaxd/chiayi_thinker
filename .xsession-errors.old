@@ -1,0 +1,7 @@
+Xsession: X session started for pi at Fri  3 Mar 08:24:55 PST 2017
+localuser:pi being added to access control list
+cp: cannot create regular file ‘/home/pi/.config/pcmanfm/LXDE-pi/pcmanfm.conf’: Permission denied
+** Message: main.vala:99: Session is LXDE-pi
+** Message: main.vala:100: DE is LXDE
+** Message: main.vala:131: log directory: /home/pi/.cache/lxsession/LXDE-pi
+** Message: main.vala:132: log path: /home/pi/.cache/lxsession/LXDE-pi/run.log
