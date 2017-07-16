@@ -1,1 +1,10 @@
-# chiayi_thinker
+作品名稱：嘉義盒(加一盒)
+
+簡報檔名：析客_發表簡報
+
+作品網址：：
+https://github.com/sulaxd/chiayi_thinker
+
+使用的資料集：
+嘉義縣人口老化趨勢及影響專案分析報告
+嘉義市統計資料庫－人口年齡分配統計
