@@ -15,6 +15,9 @@ tmp=session.post(url,data=payload)
 
 tree = ET.fromstring(tmp.text)
 
+from subprocess import call 
+import os
+os.system('say -r 200 "%s"' % tree[4].text)
 
 
 
